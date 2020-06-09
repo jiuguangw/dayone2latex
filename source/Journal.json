@@ -1,0 +1,100 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "creationDate" : "2020-06-08T13:24:22Z",
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,2",
+  "creationOSName" : "iOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -77.0365477,
+        "latitude" : 38.89710371779308
+      },
+      "identifier" : "<+38.89710372,-77.03654770> radius 208.27",
+      "radius" : 208.27453343517325
+    },
+    "localityName" : "Washington",
+    "country" : "United States",
+    "timeZoneName" : "America\/New_York",
+    "administrativeArea" : "DC",
+    "longitude" : -77.036544799804688,
+    "placeName" : "The White House",
+    "latitude" : 38.897518157958984
+  },
+  "text" : "# Monday, June 8, 2020\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua\\. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat\\. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur\\. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\\.",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":648,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true},\"contents\":[{\"text\":\"Monday, June 8, 2020\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"}]}",
+  "creationDeviceType" : "iPhone",
+  "starred" : false,
+  "creationDevice" : "JW-Regan",
+  "modifiedDate" : "2020-06-09T13:34:13Z",
+  "uuid" : "D62BF43DBBB44510B348CB11F6773202",
+  "weather" : {
+    "sunsetDate" : "2020-06-09T00:32:03Z",
+    "temperatureCelsius" : 22.799999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 30,
+    "sunriseDate" : "2020-06-08T09:42:37Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1019,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 41,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 22.799999237060547
+  },
+  "timeZone" : "America\/New_York",
+  "editingTime" : 56.833260178565979,
+  "creationOSVersion" : "13.5.1"
+},
+{
+  "creationDate" : "2020-06-09T13:26:16Z",
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,2",
+  "creationOSName" : "iOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -0.14188885688778896,
+        "latitude" : 51.501329755106653
+      },
+      "identifier" : "<+51.50132976,-0.14188886> radius 141.18",
+      "radius" : 141.17511308818604
+    },
+    "localityName" : "London",
+    "country" : "United Kingdom",
+    "timeZoneName" : "Europe\/London",
+    "administrativeArea" : "England",
+    "longitude" : -0.14188885688781738,
+    "placeName" : "Buckingham Palace",
+    "latitude" : 51.501331329345703
+  },
+  "text" : "# Tuesday, June 9, 2020\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua\\. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat\\. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur\\. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\\.",
+  "richText" : "{\"contents\":[{\"text\":\"Tuesday, June 9, 2020\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":648}}}",
+  "creationDeviceType" : "iPhone",
+  "starred" : false,
+  "creationDevice" : "JW-Regan",
+  "modifiedDate" : "2020-06-09T13:34:07Z",
+  "uuid" : "0B7F57C76F18416B83008CA472E0E166",
+  "weather" : {
+    "sunsetDate" : "2020-06-09T20:15:09Z",
+    "temperatureCelsius" : 17,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 90,
+    "sunriseDate" : "2020-06-09T03:43:10Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1020,
+    "visibilityKM" : 48.280200958251953,
+    "relativeHumidity" : 42,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 17.200000762939453
+  },
+  "timeZone" : "Europe\/London",
+  "editingTime" : 13.144569993019104,
+  "creationOSVersion" : "13.5.1"
+}
+]}

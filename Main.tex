@@ -1,0 +1,42 @@
+\documentclass[12pt,openright,twoside]{book}
+
+% Book and author information
+\newcommand{\authorname}{William Shakespeare}
+\newcommand{\booktitle}{My Day One Journal}
+\newcommand{\subtitle}{}
+\newcommand{\publisher}{New York, NY}
+\newcommand{\editionyear}{2020}
+\newcommand{\isbn}{000-0-00-0000-0}   % replace this with your own ISBN
+\title{\booktitle}
+\author{\authorname}
+
+% Style
+\usepackage{Journal}
+
+% Document Body
+\begin{document}
+
+% Front Matter
+
+\frontmatter
+\input{Title}
+\input{Copyright}
+\tableofcontents
+
+% Preface
+\input{Preface}
+
+% Main contents
+\mainmatter
+\pagestyle{fancy}
+
+\chapter{Great Chapter}
+\input{content/2020/2020-06-08}
+
+\chapter{Awesome Chapter}
+\input{content/2020/2020-06-09}
+
+\backmatter
+\input{Epilogue}
+
+\end{document}
